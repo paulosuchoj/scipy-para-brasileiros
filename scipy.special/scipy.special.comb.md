@@ -34,11 +34,11 @@ O número total de combinações
 
 ---
 
-- Vetores (arrays) só podem ser usados como argumentos na função se o parâmetro `exact = False`.
+- Vetores (arrays) só podem ser usados como argumentos na função se o parâmetro `exact=False`.
 
 - Se N < 0 ou k < 0, o retorno será 0.
 
-- Se k > N e o parâmetro `repetition = False`, o retorno será 0.
+- Se k > N e o parâmetro `repetition=False`, o retorno será 0.
 
 ### Exemplos
 
