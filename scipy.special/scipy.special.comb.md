@@ -59,7 +59,7 @@ array([120., 210.])*`
 
 120
 
-comb(10, 3, exact=True, repetition=True)
+>>> comb(10, 3, exact=True, repetition=True)
 
 220
 ```
