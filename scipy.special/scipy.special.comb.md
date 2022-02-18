@@ -53,7 +53,7 @@ O número total de combinações
 
 >>> comb(n, k, exact=False)
 
-array([120., 210.])*`
+array([120., 210.])
 
 >>> comb(10, 3, exact=True)
 
