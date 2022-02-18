@@ -6,7 +6,7 @@ O número de combinações de N coisas, sendo elas consideradas um número k por
 
 Essa fórmula é comumente expressa pela frase "N k a k"
 
-#### Parâmetros
+### Parâmetros
 
 **N: *int, ndarray***
 
@@ -24,13 +24,13 @@ Se o parâmetro *exact* for Falso, o resultado é retornado com precisão de pon
 
 Se o parâmetro repetition for Verdadeiro, então o número de combinações com repetições é considerado no cálculo da função
 
-#### Retornos
+### Retornos
 
 **val: *int, float, ndarray***
 
 O número total de combinações
 
-### Observações
+## Observações
 
 ---
 
@@ -40,7 +40,7 @@ O número total de combinações
 
 - Se k > N e o parâmetro `repetition=False`, o retorno será 0.
 
-### Exemplos
+## Exemplos
 
 ---
 
