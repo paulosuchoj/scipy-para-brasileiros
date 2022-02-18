@@ -32,7 +32,7 @@ O número total de combinações
 
 ## Observações
 
----
+
 
 - Vetores (arrays) só podem ser usados como argumentos na função se o parâmetro `exact=False`.
 
@@ -41,8 +41,6 @@ O número total de combinações
 - Se k > N e o parâmetro `repetition=False`, o retorno será 0.
 
 ## Exemplos
-
----
 
 ```python
 >>> from scipy.special import comb
